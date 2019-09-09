@@ -29,7 +29,7 @@ function Home () {
                 <div className="container">
                 <div className="head">
                     <h1 className="title dark-text">The Earth Laughs In Flower</h1>
-                    <h3 className="subtitle dark-text">Some of myriad benefits that you can expect from the simple act of adding flowers to your home.</h3>
+                    <h3 className="subtitle light-dark-text">Some of myriad benefits that you can expect from the simple act of adding flowers to your home.</h3>
                 </div>
                 <div className="rose-card">
                 <h4 className="top-text">Benefit 1</h4>
@@ -81,13 +81,13 @@ function Home () {
                         </div>    
                         <div>
                             <h1 className="title dark-text">Fragrant Flowers</h1>
-                            <h2 className="subtitle dark-text">Classic rose, calming lavender, intoxicating gardenia and delicate peony, the florist is a haven of natural perfumes.</h2>
+                            <h2 className="subtitle light-dark-text">Classic rose, calming lavender, intoxicating gardenia and delicate peony, the florist is a haven of natural perfumes.</h2>
                         </div>
                     </div>
                     <div className="subcontainer">
                         <div>
                             <h1 className="title dark-text">Decoration Flowers</h1>
-                            <h2 className="subtitle dark-text">People plant them in gardens or arrange them in fresh flower bouquets to enjoy the beauty and fragrance of living blooms.</h2>
+                            <h2 className="subtitle light-dark-text">People plant them in gardens or arrange them in fresh flower bouquets to enjoy the beauty and fragrance of living blooms.</h2>
                         </div>
                         <div>
                             <img className="artboard-04" src={FlowerBouquet}/>
@@ -99,7 +99,7 @@ function Home () {
                         </div>    
                         <div>
                             <h1 className="title dark-text">Medicine Flowers</h1>
-                            <h2 className="subtitle dark-text">Many flowers and other plant parts have purported medicinal properties, which have been used since ancient times.</h2>
+                            <h2 className="subtitle light-dark-text">Many flowers and other plant parts have purported medicinal properties, which have been used since ancient times.</h2>
                         </div>
                     </div>
                 </div>
@@ -133,7 +133,7 @@ function Home () {
                     </div>
                     <div className="developer-details">
                         <h1 class="developer-name">Varun Rana</h1>
-                        <h2 class="developer-designation">CEO, 20kiwi</h2>
+                        <h2 class="developer-designation">developer</h2>
                     </div>
                 </div>    
             </section>
